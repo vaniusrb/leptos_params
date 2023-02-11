@@ -1,34 +1,3 @@
-# TODO
-
-Start product server:
-cargo run -- --addr '127.0.0.1:8080' --cors-allow-origin 'http://127.0.0.1:3000'
-
-# Roxxies
-
-An inclusive fullstack framework for the masses
-
-Inspired in the easily development enterprise desktop apps from the 90's.
-
-Roxxies / Nineties ?
-
-- No complex coupling
-- Simplicity
-- Fields binds
-- Data model
-- Component
-
-https://www.redbubble.com/i/poster/I-Love-The-90s-Retro-Nineties-Pop-Culture-Throwback-by-zenspired/27813876.LVTDI
-
-Web frameworks in Rust don't have goal to deal with common enterprise necessities.
-Per example, have a reusable columnar data model, bind data model into visual componentes.
-
-Inclusive and easy access web development for everyone ^1.
-
-^1 Sometime work with libraries in Rust is hard, commonly requires low-level knowledge or a genius mind to understand.
-
-Try achieve facilities to develop enterprise apps like was in teh 90's.
-Clipper, Visual Basic, Delphi
-
 # Leptos study project Axum
 
 It showcases Leptos' ability to create both a client-side rendered app, and a server side rendered app with hydration, in a single repository.
